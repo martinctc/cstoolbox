@@ -47,3 +47,5 @@ public class Test
     }  
 }
 ```
+
+For a worked-out example on how to run or test this library, please have a look at <https://github.com/martinctc/demo_cstoolbox>. 
